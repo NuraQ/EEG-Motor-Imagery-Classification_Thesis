@@ -1,3 +1,7 @@
+# EEG Motor Imagery Classification
+
+Master’s thesis project implementing and comparing deep learning and transformer-based models for EEG motor imagery classification using subject-independent evaluation.
+
 ## Dataset: PhysioNet EEG Motor Movement/Imagery (EEGMMIBD)
 
 The PhysioNet **EEG Motor Movement/Imagery** database (EEGMMIBD) was used: 109 volunteers, 64-channel EEG (10–10 system) recorded with BCI2000 at 160 Hz. Each subject performed 14 runs: two 1-minute baselines (eyes open/closed) and three 2-minute runs for each of four task families covering executed and imagined limb movements (e.g., open/close fists or feet, and their imagined counterparts)
